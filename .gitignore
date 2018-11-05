@@ -1,0 +1,6 @@
+*.pyc
+*.png
+*.ckpt
+*.zip
+checkpoint
+log*.txt
